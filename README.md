@@ -16,9 +16,9 @@
 <h3 align="left">Sosial Media:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/prakasa_jr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="prakasa_jr64" height="30" width="40" /></a>
-<a href="https://fb.com/prakasa jr." target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prakasa jr." height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100038754743614" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prakasa jr." height="30" width="40" /></a>
 <a href="https://instagram.com/prakasa_jr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prakasa_jr64" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mrtamfanx cyber team" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mrtamfanx cyber team" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/warungcyber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mrtamfanx cyber team" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrtamfanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mrtamfanx" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mrtamfanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mrtamfanx" height="30" width="40" /></a>
 </p>
