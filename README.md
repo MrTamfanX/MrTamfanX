@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hallo🤝, Perkenalkan Saya Prakasa_Jr64</h1>
+### <h1 align="center">Hallo🤝, Perkenalkan Saya Prakasa_Jr64</h1>
 <h3 align="center">saya dari Indonesia. Saya bekerja sebagai Keamanan Cyber, Guru Perl Indonesia, dan Pengembangan Aplikasi. Dan ini akun riil saya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtamfanx&label=Profile%20views&color=0e75b6&style=flat" alt="mrtamfanx" /> </p>
@@ -9,9 +9,9 @@
 
 
 
-- 📝 I regularly write articles on [www.prakasa-social.biz.id](www.prakasa-social.biz.id)
+- 📝 Mau belajar bahasa? Kunjungi-> [www.prakasa-social.biz.id](www.prakasa-social.biz.id)
 
-- 📫 How to reach me **prakasap64@gmail.com**
+- 📫 Hubungi saya lewat email-> **prakasap64@gmail.com**
 
 <h3 align="left">Sosial Media:</h3>
 <p align="left">
