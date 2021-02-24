@@ -8,10 +8,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtamfanx" alt="mrtamfanx" /></a> </p>
 
 
-
-- 📝 Mau belajar bahasa? Kunjungi-> [www.prakasa-social.biz.id](www.prakasa-social.biz.id)
-
 - 📫 Hubungi saya lewat email-> **prakasap64@gmail.com**
+- 📝 Mau belajar bahasa pemrograman? Kunjungi-> [www.prakasa-social.biz.id](www.prakasa-social.biz.id)
+
 
 <h3 align="left">Sosial Media:</h3>
 <p align="left">
