@@ -1,22 +1,22 @@
 
 
-### <h1 align="center">Hallo🤝, Perkenalkan Saya Prakasa_Jr64</h1>
-<h3 align="center">saya dari Indonesia. Saya bekerja sebagai Keamanan Cyber, Guru Perl Indonesia, dan Pengembangan Aplikasi. Dan ini akun riil saya.</h3>
+### <h1 align="center">Hallo🤝, Perkenalkan Saya Prakasa_Jr644</h1>
+<h3 align="center">saya dari Indonesia. Saya bekerja sebagai Pengembangan Web, dan Pengembangan Aplikasi Android. Dan ini akun riil saya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtamfanx&label=Profile%20views&color=0e75b6&style=flat" alt="mrtamfanx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtamfanx" alt="mrtamfanx" /></a> </p>
 
 
-- 📫 Hubungi saya lewat email-> **prakasap64@gmail.com**
-- 📝 Mau belajar bahasa pemrograman? Kunjungi-> [www.prakasa-social.biz.id](www.prakasa-social.biz.id)
+- 📫 Hubungi saya lewat email-> **prakasap@buitenzorgsyndicate.id**
+- 📝 Mau belajar bahasa pemrograman? Kunjungi-> [www.prakasa.buitenzorgsyndicate.id](www.prakasa.buitenzorgsyndicate.id)
 
 
 <h3 align="left">Sosial Media:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/prakasa_jr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="prakasa_jr64" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100038754743614" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prakasa jr." height="30" width="40" /></a>
-<a href="https://instagram.com/prakasa_jr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prakasa_jr64" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prakasajr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prakasa jr." height="30" width="40" /></a>
+<a href="https://instagram.com/prakasa_jr644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prakasa_jr644" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/warungcyber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="mrtamfanx cyber team" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mrtamfanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mrtamfanx" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mrtamfanx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="mrtamfanx" height="30" width="40" /></a>
